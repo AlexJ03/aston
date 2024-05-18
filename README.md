@@ -1,1 +1,1 @@
-<h1 style="text-align: center;">Aston Homeworks</h1>
+<h1 align="center">Aston Homeworks</h1>
